@@ -4,7 +4,7 @@
 
 ## 完成イメージ
 
-![ranking-websocket.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/153051/69e1a123-3fc6-2289-96ad-16f7ad6b546b.gif)
+<img src="https://user-images.githubusercontent.com/21039559/90240041-80aa6280-de63-11ea-8a0d-e8188569cfa5.gif"/>
 
 ## Qiita記事
 
