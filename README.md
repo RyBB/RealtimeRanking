@@ -4,7 +4,7 @@
 
 ## 完成イメージ
 
-<img width="500px" src="ttps://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/153051/69e1a123-3fc6-2289-96ad-16f7ad6b546b.gif">
+<img width="500px" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/153051/69e1a123-3fc6-2289-96ad-16f7ad6b546b.gif">
 
 ## Qiita記事
 
